@@ -10,7 +10,6 @@ phalcon框架封装公用服务接口，如生成二维码、ID生成器等
 ## 环境要求
 - Linux，FreeBSD，MacOS
 - PHP-7.0及以上版本
-- beanstalkd(队列)
 - phalcon(PHP框架)
 - donkeyid(ID生成器扩展)
 
